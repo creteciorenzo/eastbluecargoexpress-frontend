@@ -3,48 +3,41 @@
     "name": "About",
     "path": "/About",
     "component": "D:\\\\Frontend projects\\\\VueJS\\\\ece-frontend\\\\eastbluecargoexpress\\\\pages\\\\About.vue",
-    "chunkName": "pages/About",
-    "_name": "_5597d1d7"
+    "chunkName": "pages/About"
   },
   {
     "name": "Contact-Us",
     "path": "/Contact-Us",
     "component": "D:\\\\Frontend projects\\\\VueJS\\\\ece-frontend\\\\eastbluecargoexpress\\\\pages\\\\Contact-Us.vue",
-    "chunkName": "pages/Contact-Us",
-    "_name": "_98b8d49e"
+    "chunkName": "pages/Contact-Us"
   },
   {
     "name": "Error",
     "path": "/Error",
     "component": "D:\\\\Frontend projects\\\\VueJS\\\\ece-frontend\\\\eastbluecargoexpress\\\\pages\\\\Error.vue",
-    "chunkName": "pages/Error",
-    "_name": "_8dd46a5c"
+    "chunkName": "pages/Error"
   },
   {
     "name": "Home",
     "path": "/Home",
     "component": "D:\\\\Frontend projects\\\\VueJS\\\\ece-frontend\\\\eastbluecargoexpress\\\\pages\\\\Home.vue",
-    "chunkName": "pages/Home",
-    "_name": "_9282f0f6"
+    "chunkName": "pages/Home"
   },
   {
     "name": "Services",
     "path": "/Services",
     "component": "D:\\\\Frontend projects\\\\VueJS\\\\ece-frontend\\\\eastbluecargoexpress\\\\pages\\\\Services.vue",
-    "chunkName": "pages/Services",
-    "_name": "_aeff56f8"
+    "chunkName": "pages/Services"
   },
   {
     "name": "index",
     "path": "/",
     "component": "D:\\\\Frontend projects\\\\VueJS\\\\ece-frontend\\\\eastbluecargoexpress\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_0444e688"
+    "chunkName": "pages/index"
   },
   {
     "name": "custom",
     "path": "*",
-    "component": "D:\\\\Frontend projects\\\\VueJS\\\\ece-frontend\\\\eastbluecargoexpress\\\\pages\\\\Error.vue",
-    "_name": "_8dd46a5c"
+    "component": "D:\\\\Frontend projects\\\\VueJS\\\\ece-frontend\\\\eastbluecargoexpress\\\\pages\\\\Error.vue"
   }
 ]

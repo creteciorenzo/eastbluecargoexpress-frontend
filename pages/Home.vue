@@ -55,12 +55,11 @@
             <h6>Trucking Service</h6>
           </div>
           <div class="col-md-4">
-            <router-link to="/services"
-              ><a type="button" class="btn btn-outline-primary">
-                More Services<span class="badge"
-                  ><i class="fa fa-arrow-right"></i
-                ></span> </a
-            ></router-link>
+            <NuxtLink class="btn btn-outline-primary" to="/services">
+              More Services<span class="badge"
+                ><i class="fa fa-arrow-right"></i
+              ></span>
+            </NuxtLink>
           </div>
         </div>
 
@@ -87,12 +86,12 @@
             </p>
           </div>
           <div class="col-md-3 text-center">
-            <router-link to="/about"
-              ><a type="button" class="btn btn-outline-primary">
-                Learn More<span class="badge"
-                  ><i class="fa fa-arrow-right"></i
-                ></span> </a
-            ></router-link>
+            <NuxtLink class="btn btn-outline-primary" to="/about">
+              Learn More<span class="badge"
+                ><i class="fa fa-arrow-right"></i
+              ></span>
+              ></NuxtLink
+            >
           </div>
         </div>
         <hr class="featurette-divider" />
