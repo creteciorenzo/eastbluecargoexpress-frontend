@@ -44,10 +44,10 @@
 
         <div class="btn-center">
           <div class="close-btn"><i class="fas fa-times"></i></div>
-          <a><NuxtLink to="/">Home</NuxtLink></a>
-          <a><NuxtLink to="/about">About us</NuxtLink></a>
-          <a><NuxtLink to="/services">Services</NuxtLink></a>
-          <a><NuxtLink to="/contact-us">Contact Us</NuxtLink></a>
+          <NuxtLink class="menu-btn" to="/">Home</NuxtLink>
+          <NuxtLink class="menu-btn" to="/about">About us</NuxtLink>
+          <NuxtLink class="menu-btn" to="/services">Services</NuxtLink>
+          <NuxtLink class="menu-btn" to="/contact-us">Contact Us</NuxtLink>
         </div>
       </div>
     </nav>
@@ -202,7 +202,7 @@ export default {
   align-items: center;
 }
 
-.menu .btn-center a {
+.menu .btn-center .menu-btn {
   padding: 0.5rem;
   font-family: "DM Sans", sans-serif;
   font-size: 18px;
