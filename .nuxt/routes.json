@@ -18,12 +18,6 @@
     "chunkName": "pages/Error"
   },
   {
-    "name": "Home",
-    "path": "/Home",
-    "component": "D:\\\\Frontend projects\\\\VueJS\\\\ece-frontend\\\\eastbluecargoexpress\\\\pages\\\\Home.vue",
-    "chunkName": "pages/Home"
-  },
-  {
     "name": "Services",
     "path": "/Services",
     "component": "D:\\\\Frontend projects\\\\VueJS\\\\ece-frontend\\\\eastbluecargoexpress\\\\pages\\\\Services.vue",

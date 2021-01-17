@@ -84,7 +84,26 @@
 </template>
 
 <script>
-export default {}
+export default {
+  head: {
+    title: 'About - EastBlue Cargo Express',
+    meta: [
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      {
+        hid: 'description',
+        name: 'description',
+        content:
+          'EAST BLUE CARGO EXPRESS is a product of dynamic and experienced professionals in the Logistics Industry with the aim of providing highly depenedable and cost offeicient services that will cater clients Domestic and International Services.',
+      },
+      { name: 'msapplication-TileColor', content: '#f1f1f1' },
+      {
+        name: 'msapplication-TileColor',
+        content: 'favicons/ms-icon-144x144.png',
+      },
+    ],
+  },
+}
 </script>
 
 <style scoped>
