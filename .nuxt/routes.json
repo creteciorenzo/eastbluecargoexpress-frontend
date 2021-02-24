@@ -24,6 +24,12 @@
     "chunkName": "pages/Services"
   },
   {
+    "name": "Track",
+    "path": "/Track",
+    "component": "D:\\\\Frontend projects\\\\VueJS\\\\ece-frontend\\\\eastbluecargoexpress\\\\pages\\\\Track.vue",
+    "chunkName": "pages/Track"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "D:\\\\Frontend projects\\\\VueJS\\\\ece-frontend\\\\eastbluecargoexpress\\\\pages\\\\index.vue",

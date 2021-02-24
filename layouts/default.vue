@@ -144,4 +144,12 @@ p,
 a {
   font: normal 100%/1.5 'Montserrat', sans-serif;
 }
+
+.bg-primary {
+  background: #1f4ca0 !important;
+}
+
+.color-primary {
+  color: #1f4ca0;
+}
 </style>

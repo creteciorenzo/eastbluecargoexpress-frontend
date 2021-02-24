@@ -8,6 +8,7 @@ const _5597d1d7 = () => interopDefault(import('..\\pages\\About.vue' /* webpackC
 const _98b8d49e = () => interopDefault(import('..\\pages\\Contact-Us.vue' /* webpackChunkName: "pages/Contact-Us" */))
 const _8dd46a5c = () => interopDefault(import('..\\pages\\Error.vue' /* webpackChunkName: "pages/Error" */))
 const _aeff56f8 = () => interopDefault(import('..\\pages\\Services.vue' /* webpackChunkName: "pages/Services" */))
+const _5e1cded6 = () => interopDefault(import('..\\pages\\Track.vue' /* webpackChunkName: "pages/Track" */))
 const _0444e688 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 // TODO: remove in Nuxt 3
@@ -42,6 +43,10 @@ export const routerOptions = {
     path: "/Services",
     component: _aeff56f8,
     name: "Services"
+  }, {
+    path: "/Track",
+    component: _5e1cded6,
+    name: "Track"
   }, {
     path: "/",
     component: _0444e688,

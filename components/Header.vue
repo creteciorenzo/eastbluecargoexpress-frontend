@@ -98,7 +98,7 @@ export default {
 }
 </script>
 
-<style lang="stylus" scoped>
+<style scoped>
 .nav-bar {
   position: relative;
   width: 100%;
@@ -144,13 +144,13 @@ export default {
   height: 100%;
   justify-content: center;
   align-items: flex-start;
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   font-weight: 400;
   font-size: 15px;
 }
 
 .contact p {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   font-weight: 400;
   font-size: 15px;
   margin: 0;
@@ -204,7 +204,7 @@ export default {
 
 .menu .btn-center .menu-btn {
   padding: 0.5rem;
-  font-family: "DM Sans", sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-size: 18px;
   color: #faf8f0;
   text-decoration: none;
